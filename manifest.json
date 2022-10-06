@@ -1,0 +1,16 @@
+{
+  "name": "QRCode",
+  "description": "A simple qrcode extension powered by Svelte",
+  "version": "1.0",
+  "manifest_version": 3,
+  "permissions": ["tabs", "downloads"],
+  "action": {
+    "default_popup": "index.html"
+  },
+  "icons": {
+    "16": "/qrcode.png",
+    "32": "/qrcode.png",
+    "48": "/qrcode.png",
+    "128": "/qrcode.png"
+  }
+}
